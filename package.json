@@ -10,6 +10,7 @@
   "license": "MIT",
   "dependencies": {
     "dotenv": "^2.0.0",
-    "firebase": "^3.3.0"
+    "firebase": "^3.3.0",
+    "request": "^2.74.0"
   }
 }
